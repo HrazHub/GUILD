@@ -1,0 +1,56 @@
+GUILD — End User License Agreement
+Copyright © 2026 HrazHub. All rights reserved.
+
+IMPORTANT: READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR USING GUILD.
+
+1. GRANT OF LICENSE
+   HrazHub grants you a personal, non-exclusive, non-transferable, revocable
+   license to install and use the GUILD desktop application and its
+   accompanying server software (the "Software") on computers you own or
+   control, for the purpose of running and participating in private or public
+   communities.
+
+2. RESTRICTIONS
+   You may not:
+   a. redistribute, sublicense, rent, lease or sell the Software as a standalone
+      product without written permission from HrazHub;
+   b. remove or alter any copyright, trademark or attribution notices;
+   c. use the Software to violate applicable law, to harass others, or to
+      infringe the rights of any person;
+   d. claim that the Software is an official product of any third party, or use
+      third-party trademarks in a way that suggests endorsement.
+
+3. YOUR CONTENT AND YOUR SERVERS
+   You retain all rights to the content you create and upload. Communities you
+   host are operated by you or by whoever runs the server. HrazHub does not
+   operate, monitor or control self-hosted GUILD servers and is not responsible
+   for content stored on them.
+
+4. THIRD-PARTY COMPONENTS
+   The Software includes open-source components distributed under their own
+   licenses (including Electron, React, Prisma, PostgreSQL binaries and
+   Socket.IO). Those licenses continue to govern those components.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. YOU ASSUME
+   THE ENTIRE RISK OF USING THE SOFTWARE AND OF OPERATING ANY SERVER WITH IT.
+
+6. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, HRAZHUB SHALL NOT BE LIABLE FOR ANY
+   INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY
+   LOSS OF DATA, PROFITS OR BUSINESS, ARISING FROM THE USE OF THE SOFTWARE.
+   HRAZHUB'S TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT YOU PAID FOR THE
+   SOFTWARE.
+
+7. TERMINATION
+   This license terminates automatically if you breach these terms. On
+   termination you must stop using the Software and remove it from your
+   devices.
+
+8. GOVERNING LAW
+   This agreement is governed by the laws applicable at HrazHub's principal
+   place of business, without regard to conflict-of-law rules.
+
+Contact: support@hrazhub.com
